@@ -1,0 +1,8 @@
+/home/releaseX5/bin/authserver
+/home/releaseX5/etc/authserver.conf.dist
+/home/releaseX5/bin/worldserver
+/home/releaseX5/etc/worldserver.conf.dist
+/home/releaseX5/etc/duelreset.conf.dist
+/home/releaseX5/etc/autobalance.conf.dist
+/home/releaseX5/etc/transmog.conf.dist
+/home/releaseX5/etc/anticheat.conf.dist

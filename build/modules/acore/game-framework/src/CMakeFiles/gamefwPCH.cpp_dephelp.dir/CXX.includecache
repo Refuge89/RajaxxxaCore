@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/source/RajaxxaCore/modules/acore/game-framework/src/PrecompiledHeaders/gamefwPCH.cpp
+gamefwPCH.h
+/home/source/RajaxxaCore/modules/acore/game-framework/src/PrecompiledHeaders/gamefwPCH.h
+
+/home/source/RajaxxaCore/modules/acore/game-framework/src/PrecompiledHeaders/gamefwPCH.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11 -O3 -DNDEBUG   -shared -Wl,-soname,libgamefwPCH.cpp_dephelp.so -o libgamefwPCH.cpp_dephelp.so CMakeFiles/gamefwPCH.cpp_dephelp.dir/PrecompiledHeaders/gamefwPCH.cpp.o 

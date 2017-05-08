@@ -1,0 +1,2 @@
+/usr/bin/ar cr libgamefw.a  CMakeFiles/gamefw.dir/Addons/AddonMgr.cpp.o CMakeFiles/gamefw.dir/PrecompiledHeaders/gamefwPCH.cpp.o
+/usr/bin/ranlib libgamefw.a
